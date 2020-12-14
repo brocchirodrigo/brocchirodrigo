@@ -25,6 +25,7 @@ I am a developer of *back end, front end and mobile*, and I work for Kroton Educ
 
 <br />
 <br />
+<br />
 
 <center>
 <table>
