@@ -21,16 +21,17 @@ I am a developer of {back end, front end and mobile}, and I work for Kroton Educ
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
+<br />
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabneri&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" /></td>
+  </tr>  
+</table>
+</center>
 
+<br />
 
 - 💬 Ask me about, send e-mail in [rodrigo.brocchi@rodrigobrocchi.com.br](mailto:rodrigo.brocchi@rodrigobrocchi.com.br)
