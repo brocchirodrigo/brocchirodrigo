@@ -40,5 +40,5 @@ I am a developer of *back end, front end and mobile*, and I work for Kroton Educ
 
 - 💬 Ask me about, [rodrigo.brocchi@rodrigobrocchi.com.br](mailto:rodrigo.brocchi@rodrigobrocchi.com.br) 📩
 <br />
-Or, send message on <a target="_blank" href="https://api.whatsapp.com/send?phone=5511981338833">
-  <img align="left" alt="Whatsapp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111728.svg" />
+- <a target="_blank" href="https://api.whatsapp.com/send?phone=5511981338833">
+  <img align="left" alt="Whatsapp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111728.svg" /> Or, send message on
