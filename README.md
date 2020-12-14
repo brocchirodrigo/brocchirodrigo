@@ -1,4 +1,4 @@
-### Hi❗ I'm Rodrigo Brocchi :octocat:
+### Hi❗ I'm Rodrigo Brocchi   :octocat:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brocchirodrigo/)](https://github.com/brocchirodrigo/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigobrocchi/)](https://www.linkedin.com/in/rodrigobrocchi/)
@@ -28,12 +28,12 @@ I am a developer of *back end, front end and mobile*, and I work for Kroton Educ
 <br />
 
 <center>
-<table>
-  <tr>
+  <table>
+    <tr>
       <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabneri&hide=html&layout=compact&theme=radical" /></td>
       <td><img width="465px" align="center" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" /></td>
-  </tr>  
-</table>
+    </tr>  
+  </table>
 </center>
 
 <br />
