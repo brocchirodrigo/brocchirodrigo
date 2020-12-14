@@ -8,7 +8,7 @@
 
 ### About me
 
-I am a developer of {back end, front end and mobile}, and I work for Kroton Education Brasil as a Product Owner (SAFe certified).
+I am a developer of *back end, front end and mobile*, and I work for Kroton Education Brasil as a Product Owner (SAFe certified).
 
 - 📘 I’m currently learning Rocketseat GoStack Bootcamp
 
