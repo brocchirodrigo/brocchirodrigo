@@ -28,7 +28,7 @@ I am a developer of {back end, front end and mobile}, and I work for Kroton Educ
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabneri&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" /></td>
+      <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" /></td>
   </tr>  
 </table>
 </center>
