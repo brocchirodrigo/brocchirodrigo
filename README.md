@@ -34,6 +34,5 @@ I am a developer of {back end, front end and mobile}, and I work for Kroton Educ
 </center>
 
 <br />
-<br />
 
 - 💬 Ask me about, send e-mail in [rodrigo.brocchi@rodrigobrocchi.com.br](mailto:rodrigo.brocchi@rodrigobrocchi.com.br)
