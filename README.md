@@ -33,7 +33,7 @@ I am a developer of *back end, front end and mobile*, and I work for Kroton Educ
 <center>
   <table>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabneri&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocchirodrigo&hide=html&layout=compact&theme=radical" /></td>
       <td><img width="465px" align="center" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" /></td>
     </tr>  
   </table>
