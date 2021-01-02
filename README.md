@@ -9,9 +9,9 @@
 
 ### About me
 
-I am a developer of *back end, front end and mobile*, and I work for Kroton Education Brasil as a Product Owner (SAFe certified).
+I'm a developer * back end, front end and mobile *. I currently work at Kroton Educacional Brasil as Product Owner (certified by SAFe).
 
-- 📘 I’m currently learning React and React Native with Rocketseat in Bootcamp GoStack 🚀
+- 📘 I'm up to date on React and React Native with Rocketseat on BootStamp GoStack 🚀
 
 ### Technology Stack 🤖
 
