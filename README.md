@@ -44,4 +44,4 @@ I'm a developer *back end, front end and mobile*. I currently work at Kroton Edu
 <br />
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511981338833">
-<img align="left" alt="Whatsapp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111728.svg" /> Networking contact 🌎
+<img align="left" alt="Whatsapp" width="22px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png?raw=true" /> Networking contact 🌎
