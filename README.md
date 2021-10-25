@@ -39,7 +39,8 @@ I'm a developer *back end, front end and mobile*.
 
 <br />
 
-- 💬 Ask me about, [rodrigo.brocchi@rodrigobrocchi.com.br](mailto:rodrigo.brocchi@rodrigobrocchi.com.br) 📩
+- 💬 Ask me about, https://www.rodrigobrocchi.com.br
+- [rodrigo.brocchi@rodrigobrocchi.com.br](mailto:rodrigo.brocchi@rodrigobrocchi.com.br) 📩
 
 <br />
 
