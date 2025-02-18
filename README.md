@@ -16,7 +16,7 @@ I also have experience with:
 - 🖥 **Backend:** Java (Spring Boot), Node.js
 - 🌍 **Frontend:** React.js, Next.js
 - 📱 **Mobile:** React Native
-- 🗄 **Databases:** PostgreSQL, MySQL, SQL Server, PL/SQL
+- 🗄 **Databases:** PostgreSQL, MySQL, SQL Server, PL/SQL, MongoDB, DocumentDB, Firebase
 - 📊 **Data Analysis:** Python (Pandas, NumPy), Power BI, KNIME
 
 ---
