@@ -18,17 +18,22 @@ I also have experience with:
 - 📱 **Mobile:** React Native
 - 🗄 **Databases:** PostgreSQL, MySQL, SQL Server, PL/SQL, MongoDB, DocumentDB, Firebase
 - 📊 **Data Analysis:** Python (Pandas, NumPy), Power BI, KNIME
+- 🔒 **Security & Cloud Gateways:** Implementation of secure API gateways using Spring Security, Cloud Gateway with Service Discovery (Eureka), and integration with authentication providers such as Keycloak, Auth0, and AWS Cognito.
 
 ---
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocchirodrigo&layout=compact&theme=dark&hide=Objective-C,CSS,HTML,Starlark,Ruby,Shell" /></td>
-    <td><img width="460px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark" /></td>
-  </tr>  
-</table>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div>
+      <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocchirodrigo&layout=compact&theme=dark&hide=Objective-C,CSS,HTML,Starlark,Ruby,Shell" />
+    </div>
+    <div>
+      <img width="460px" height="240px" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark" />
+    </div>
+  </div>
+</div>
 
 ---
 
