@@ -25,8 +25,8 @@ I also have experience with:
 
 <table>
   <tr>
-    <td><img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocchirodrigo&hide=Objective-C&layout=compact&theme=radical" /></td>
-    <td><img width="460px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" /></td>
+    <td><img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocchirodrigo&hide=Objective-C&layout=normal&theme=dark" /></td>
+    <td><img width="460px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark" /></td>
   </tr>  
 </table>
 
