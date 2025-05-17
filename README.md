@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Architect & Full Stack Developer** passionate about technology, clean code, and scalable solutions. I have expertise in **backend, frontend, and mobile development**, with a primary focus on **Java with Spring Boot** in the latest versions.
+I'm a **Software Architect & Backend Developer** passionate about technology, clean code, and scalable solutions. I have expertise in **backend, frontend, and mobile development**, with a primary focus on **Java with Spring Boot (backend)** in the latest versions.
 
 🎓 **Software Architecture with Java - FIAP (2025)**  
 ☁️ **Cloud Computing (AWS, Azure, GCP)**  
@@ -19,6 +19,9 @@ I also have experience with:
 - 🗄 **Databases:** PostgreSQL, MySQL, SQL Server, PL/SQL, MongoDB, DocumentDB, Firebase
 - 📊 **Data Analysis:** Python (Pandas, NumPy), Power BI, KNIME
 - 🔒 **Security & Cloud Gateways:** Implementation of secure API gateways using Spring Security, Cloud Gateway with Service Discovery (Eureka), and integration with authentication providers such as Keycloak, Auth0, and AWS Cognito.
+
+You need some development? Contact me on [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rodrigobrocchi) too!
+  - Access here [https://www.upwork.com/freelancers/rodrigobrocchi](https://www.upwork.com/freelancers/rodrigobrocchi)
 
 ---
 
