@@ -20,6 +20,12 @@ I also have experience with:
 - 📊 **Data Analysis:** Python (Pandas, NumPy), Power BI, KNIME
 - 🔒 **Security & Cloud Gateways:** Implementation of secure API gateways using Spring Security, Cloud Gateway with Service Discovery (Eureka), and integration with authentication providers such as Keycloak, Auth0, and AWS Cognito.
 
+### 📢 Let's Connect!
+
+- 💬 More about me: [https://www.rodrigobrocchi.com.br](https://www.rodrigobrocchi.com.br)
+- 📩 Email: [rodrigo@imaginer.com.br](mailto:rodrigo@imaginer.com.br)
+- 🌎 WhatsApp: [Contact me](https://api.whatsapp.com/send?phone=5511981338833)
+
 You need some development? Contact me on [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rodrigobrocchi) too!
   - Access here [https://www.upwork.com/freelancers/rodrigobrocchi](https://www.upwork.com/freelancers/rodrigobrocchi)
 
@@ -37,12 +43,3 @@ You need some development? Contact me on [![Upwork](https://img.shields.io/badge
     </div>
   </div>
 </div>
-
----
-
-### 📢 Let's Connect!
-
-- 💬 More about me: [https://www.rodrigobrocchi.com.br](https://www.rodrigobrocchi.com.br)
-- 📩 Email: [rodrigo@imaginer.com.br](mailto:rodrigo@imaginer.com.br)
-- 🌎 WhatsApp: [Contact me](https://api.whatsapp.com/send?phone=5511981338833)
-
