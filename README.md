@@ -22,7 +22,7 @@ I also have experience with:
 
 ### 📢 Let's Connect!
 
-- 💬 More about me: [https://www.rodrigobrocchi.com.br](https://www.rodrigobrocchi.com.br)
+- 💬 More about me: [https://www.linkedin.com/in/rodrigobrocchi/](https://www.linkedin.com/in/rodrigobrocchi/)
 - 📩 Email: [rodrigo@imaginer.com.br](mailto:rodrigo@imaginer.com.br)
 - 🌎 WhatsApp: [Contact me](https://api.whatsapp.com/send?phone=5511981338833)
 
