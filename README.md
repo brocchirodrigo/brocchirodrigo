@@ -28,18 +28,3 @@ I also have experience with:
 
 You need some development? Contact me on [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rodrigobrocchi) too!
   - Access here [https://www.upwork.com/freelancers/rodrigobrocchi](https://www.upwork.com/freelancers/rodrigobrocchi)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <div>
-      <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brocchirodrigo&layout=compact&theme=dark&hide=Objective-C,CSS,HTML,Starlark,Ruby,Shell" />
-    </div>
-    <div>
-      <img width="460px" height="240px" src="https://github-readme-stats.vercel.app/api?username=brocchirodrigo&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark" />
-    </div>
-  </div>
-</div>
