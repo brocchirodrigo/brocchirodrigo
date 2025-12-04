@@ -1,7 +1,6 @@
 ### Hi❗ I'm Rodrigo Brocchi :octocat:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brocchirodrigo/)](https://github.com/brocchirodrigo/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigobrocchi/)](https://www.linkedin.com/in/rodrigobrocchi/)
 
 ### 👨‍💻 About Me
 
@@ -22,7 +21,6 @@ I also have experience with:
 
 ### 📢 Let's Connect!
 
-- 💬 More about me: [https://www.linkedin.com/in/rodrigobrocchi/](https://www.linkedin.com/in/rodrigobrocchi/)
 - 📩 Email: [rodrigo@imaginer.com.br](mailto:rodrigo@imaginer.com.br)
 - 🌎 WhatsApp: [Contact me](https://api.whatsapp.com/send?phone=5511981338833)
 
