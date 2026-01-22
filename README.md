@@ -23,6 +23,3 @@ I also have experience with:
 
 - 📩 Email: [rodrigo@imaginer.com.br](mailto:rodrigo@imaginer.com.br)
 - 🌎 WhatsApp: [Contact me](https://api.whatsapp.com/send?phone=5511981338833)
-
-You need some development? Contact me on [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rodrigobrocchi) too!
-  - Access here [https://www.upwork.com/freelancers/rodrigobrocchi](https://www.upwork.com/freelancers/rodrigobrocchi)
